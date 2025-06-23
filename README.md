@@ -1,4 +1,4 @@
-# Aarohi
+
 # 🌿 Aarohi – Ayurvedic Mental Wellness Chatbot
 Link- https://www.stack-ai.com/chat/67c45231425e6ff43822c380-0Ka7RmamCUP8cFvQdxYPDy
 Aarohi is a spiritual and science-backed mental wellness chatbot rooted in Ayurvedic principles. Designed especially for first-time mothers in their postpartum journey (4th trimester), Aarohi provides holistic support through symptom tracking, emotional guidance, and personalized Ayurvedic remedies.
