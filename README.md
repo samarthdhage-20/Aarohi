@@ -21,10 +21,7 @@ Aarohi is a spiritual and science-backed mental wellness chatbot rooted in Ayurv
 - Deployment: Netlify / Vercel
 - APIs: Ayurvedic symptom database (custom)
 
-## 📸 Screenshots
 
-![Home Page](./screenshots/home.png)
-![Chat Dashboard](./screenshots/chat.png)
 
 ## 🧘 Ideal For
 
